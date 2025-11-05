@@ -1,0 +1,21 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Compiled Go packages
+*.o
+*.a
+
+# Test files and coverage
+_test/
+*.test
+*.prof
+
+# Dependency directories (except for go modules)
+vendor/
+
+# Executable output directory
+# For example, if your compiled program is named 'bankapp'
+bankapp
