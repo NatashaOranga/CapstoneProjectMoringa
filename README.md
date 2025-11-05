@@ -20,7 +20,7 @@ A simple command-line bank management system built with Go (Golang) as part of a
 
 ## About
 
-This project was created as a capstone for a short course focused on learning a new programming language. I chose **Go (Golang)** due to its simplicity, performance, and growing popularity in backend development and cloud infrastructure.
+This project was created as a capstone for a short course(AI for developers), and the project tasked us with learning a new programming language and creating a small project in the acquired language with the help of AI tools. I chose **Go (Golang)** due to its simplicity, performance, and growing popularity in backend development and cloud infrastructure.
 
 The Bank Management System demonstrates core Go concepts, including:
 * Structs and methods with pointer receivers
